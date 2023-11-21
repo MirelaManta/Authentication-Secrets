@@ -5,3 +5,4 @@
 * **Level 3:** Hashing Passwords(md5). 
 * **Level 4:** Salting and Hashing Passwords with bcrypt.
 * **Level 5:** Using Passport.js to Add Cookies and Sessions
+* **Level 6:** Google OAuth 2.0 Authentication
